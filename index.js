@@ -19,7 +19,7 @@ function logShout (string) {
 
 function logWhisper (string) {
 
-  let hello - string.toLowerCase()
+  let hello = string.toLowerCase()
 
   console.log(hello)
 
