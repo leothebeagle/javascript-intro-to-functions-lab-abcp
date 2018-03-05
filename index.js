@@ -22,6 +22,5 @@ function logWhisper (string) {
   let hello - string.toLowerCase()
 
   console.log(hello)
-  
-}
 
+}
